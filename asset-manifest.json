@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muje/static/css/main.9566817c.css",
+    "main.js": "/muje/static/js/main.950f4e52.js",
+    "static/js/453.56fc727d.chunk.js": "/muje/static/js/453.56fc727d.chunk.js",
+    "index.html": "/muje/index.html",
+    "main.9566817c.css.map": "/muje/static/css/main.9566817c.css.map",
+    "main.950f4e52.js.map": "/muje/static/js/main.950f4e52.js.map",
+    "453.56fc727d.chunk.js.map": "/muje/static/js/453.56fc727d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9566817c.css",
+    "static/js/main.950f4e52.js"
+  ]
+}
